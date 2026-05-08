@@ -45,4 +45,4 @@ lunar_rover_github_scaffold/
 
 ## Notes
 
-This scaffold is intentionally original and lightweight, but organized similarly to a polished robotics-simulation repository. Replace placeholder files with your working project files.
+
